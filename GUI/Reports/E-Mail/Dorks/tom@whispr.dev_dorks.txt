@@ -1,0 +1,74 @@
+GOOGLE-DORKS:
+
+[GENERAL-DORKS]:
+----------------------------------------------------------------------------------------------------------------------
+| https://www.google.com/search?q=inurl:%22tom@whispr.dev%22
+| https://www.google.com/search?q=intext:%22tom@whispr.dev%22
+| https://www.google.com/search?q=intext:(%22tom@whispr.dev%22)filetype:txt
+| https://www.google.com/search?q=intext:(%22tom@whispr.dev%22)filetype:csv
+| https://www.google.com/search?q=intext:(%22tom@whispr.dev%22)filetype:pdf
+| https://www.google.com/search?q=intext:(%22tom@whispr.dev%22)filetype:doc
+| https://www.google.com/search?q=intext:(%22tom@whispr.dev%22)filetype:docx
+| https://www.google.com/search?q=intext:(%22tom@whispr.dev%22)filetype:log
+| https://www.google.com/search?q=intext:(%22tom@whispr.dev%22)filetype:xls
+| https://www.google.com/search?q=intext:(%22tom@whispr.dev%22)filetype:xlsx
+----------------------------------------------------------------------------------------------------------------------
+[PASSWORD-DORKS]:
+----------------------------------------------------------------------------------------------------------------------
+| https://www.google.com/search?q=intext:%22tom@whispr.dev%22(Password+OR+password+OR+PASSWORD)
+| https://www.google.com/search?q=intext:%22tom@whispr.dev%22(Password+OR+password+OR+PASSWORD)filetype:txt
+| https://www.google.com/search?q=intext:%22tom@whispr.dev%22(Password+OR+password+OR+PASSWORD)filetype:csv
+| https://www.google.com/search?q=intext:%22tom@whispr.dev%22(Password+OR+password+OR+PASSWORD)filetype:pdf
+| https://www.google.com/search?q=intext:%22tom@whispr.dev%22(Password+OR+password+OR+PASSWORD)filetype:doc
+| https://www.google.com/search?q=intext:%22tom@whispr.dev%22(Password+OR+password+OR+PASSWORD)filetype:docx
+| https://www.google.com/search?q=intext:%22tom@whispr.dev%22(Password+OR+password+OR+PASSWORD)filetype:log
+| https://www.google.com/search?q=intext:%22tom@whispr.dev%22(Password+OR+password+OR+PASSWORD)filetype:xls
+| https://www.google.com/search?q=intext:%22tom@whispr.dev%22(Password+OR+password+OR+PASSWORD)filetype:xlsx
+----------------------------------------------------------------------------------------------------------------------
+[INTITLE-DORKS]:
+----------------------------------------------------------------------------------------------------------------------
+| https://www.google.com/search?q=intitle:(%22tom@whispr.dev%22)filetype:txt
+| https://www.google.com/search?q=intitle:(%22tom@whispr.dev%22)filetype:csv
+| https://www.google.com/search?q=intitle:(%22tom@whispr.dev%22)filetype:pdf
+| https://www.google.com/search?q=intitle:(%22tom@whispr.dev%22)filetype:doc
+| https://www.google.com/search?q=intitle:(%22tom@whispr.dev%22)filetype:docx
+| https://www.google.com/search?q=intitle:(%22tom@whispr.dev%22)filetype:log
+| https://www.google.com/search?q=intitle:(%22tom@whispr.dev%22)filetype:xls
+| https://www.google.com/search?q=intitle:(%22tom@whispr.dev%22)filetype:xlsx
+| https://www.google.com/search?q=inurl:%22tom@whispr.dev%22
+----------------------------------------------------------------------------------------------------------------------
+YANDEX-DORKS:
+
+[GENERAL-DORKS]:
+----------------------------------------------------------------------------------------------------------------------
+| https://yandex.com/search/?text=tom@whispr.devmime:txt
+| https://yandex.com/search/?text=tom@whispr.devmime:pdf
+| https://yandex.com/search/?text=tom@whispr.devmime:csv
+| https://yandex.com/search/?text=tom@whispr.devmime:doc
+| https://yandex.com/search/?text=tom@whispr.devmime:docx
+| https://yandex.com/search/?text=tom@whispr.devmime:log
+----------------------------------------------------------------------------------------------------------------------
+[PASSWORD-DORKS]:
+----------------------------------------------------------------------------------------------------------------------
+| https://yandex.com/search/?text=tom@whispr.dev&&(!Password|!password|!PASSWORD)&& mime:txt
+| https://yandex.com/search/?text=tom@whispr.dev&&(!Password|!password|!PASSWORD)&& mime:pdf
+| https://yandex.com/search/?text=tom@whispr.dev&&(!Password|!password|!PASSWORD)&& mime:csv
+| https://yandex.com/search/?text=tom@whispr.dev&&(!Password|!password|!PASSWORD)&& mime:doc
+| https://yandex.com/search/?text=tom@whispr.dev&&(!Password|!password|!PASSWORD)&& mime:docx
+| https://yandex.com/search/?text=tom@whispr.dev&&(!Password|!password|!PASSWORD)&&mime:log
+| https://yandex.com/search/?text=tom@whispr.dev&&(!Password|!password|!PASSWORD)&& mime:xls
+| https://yandex.com/search/?text=tom@whispr.dev&&(!Password|!password|!PASSWORD)&& mime:xlsx
+----------------------------------------------------------------------------------------------------------------------
+[INTITLE-DORKS]:
+----------------------------------------------------------------------------------------------------------------------
+| https://yandex.com/search/?text=title:tom@whispr.dev
+| https://yandex.com/search/?text=title:tom@whispr.dev&&mime:txt
+| https://yandex.com/search/?text=title:tom@whispr.dev&&mime:pdf
+| https://yandex.com/search/?text=title:tom@whispr.dev&&mime:csv
+| https://yandex.com/search/?text=title:tom@whispr.dev&&mime:doc
+| https://yandex.com/search/?text=title:tom@whispr.dev&&mime:docx
+| https://yandex.com/search/?text=title:tom@whispr.dev&&mime:xls
+| https://yandex.com/search/?text=title:tom@whispr.dev&&mime:xlsx
+| https://yandex.com/search/?text=title:tom@whispr.dev&&mime:log
+| https://yandex.com/search/?text=inurl:tom@whispr.dev
+----------------------------------------------------------------------------------------------------------------------

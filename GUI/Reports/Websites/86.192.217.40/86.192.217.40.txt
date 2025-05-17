@@ -1,0 +1,26 @@
+SCANNING EXECUTED ON:
+Date: 17/05/2025 05:06:11
+IP: 86.192.217.40
+NATION: France
+NATION-CODE: FR
+REGION-CODE: HDF
+REGION-NAME: Hauts-de-France
+CITY: Camiers
+TIMEZONE: Europe/Paris
+ISP: France Telecom
+ORG: 
+AS: AS3215 Orange S.A.
+LAT: 50.5709
+LONG: 1.6081
+ZIP/POSTAL-CODE: 62176
+
+WEBSITE DATA:
+
+
+REPUTATION RATING: 98.81
+TEST-NAME: SSL Certificate configuration
+TEST-CODE: 89
+TEST-NAME: SSL Certificate configuration
+WARNING LISTS FOR TEST: SSL Certificate configuration
+DESCRIPTION: No SSL certificates found
+CODE: 6023
